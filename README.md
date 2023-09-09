@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dumb88
-- 👀 I’m interested in learning python and doing some collab to gain some experience in the field
- I’m currently learning python
-  ritvizvaid@gmail,com
+- 👀 I’m currently learning python and c++ along with git to be a backend developer 
+
+  ritvizvaid@gmai.com
 
 <!---
 Dumb88/Dumb88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
