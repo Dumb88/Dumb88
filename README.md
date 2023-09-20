@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dumb88
+- 👋 Hi, I’m Ritviz
 - 👀 I’m currently learning python and c++ along with git to be a backend developer 
 
   ritvizvaid@gmail.com
